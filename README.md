@@ -1,0 +1,2 @@
+# README
+This repository contains all the initial work of my web development journey. Here lie all the webpages I initially created to apply my theoretical knowledge. I hope this helps anyone who sees this!
